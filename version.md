@@ -1,5 +1,9 @@
 # NGAPS+ - Website
 
+Version 1.4 (9/3/2025)
+    - Moved to GitHub
+    - Updates to reflect club leadership changes
+
 Version 1.3 (3/7/2022)
     - Added More NGAPS+ resources and activities
     - Updates to officers page
@@ -18,4 +22,4 @@ Version 1.1 (6/26/2020)
 
 Version 1.0
 
-Please contact joseph.p.renaud@nasa.gov for any website concerns or questions
+Please contact rachel.e.maxwell@nasa.gov for any website concerns or questions
